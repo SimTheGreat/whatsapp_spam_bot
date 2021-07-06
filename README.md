@@ -1,4 +1,4 @@
-# selenium_whatsapp
+# selenium_whatsapp_bot
 automates sending whatsapp messages through selenium<br>
 <br>
 using chromedriver version: 90.0.4430.24 if it is no longer current download it from: <br>
