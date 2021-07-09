@@ -28,7 +28,7 @@ selected_contact.click()
 time.sleep(2)
 
 #finds the text section
-inp_xpath = "/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[2]"
+inp_xpath = "/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div/div[2]"
 input_box = driver.find_element_by_xpath(inp_xpath)
 time.sleep(2)
 
